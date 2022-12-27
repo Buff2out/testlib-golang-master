@@ -105,5 +105,5 @@ func main() {
 			return
 		}
 	}
-	testlib.WriteAnswer(fmt.Sprintf("WA2"), testlib.OK)
+	testlib.WriteAnswer(fmt.Sprintf("OK"), testlib.OK)
 }
